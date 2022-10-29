@@ -31,7 +31,7 @@ html {
 }
 
 .hero {
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/hero.jpg") no-repeat;
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://i.ibb.co/7nTG3wM/hero.jpg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -571,7 +571,7 @@ body.preloader-site {
 }
 
 .foto1 {
-  background-image: url("../image/foto1.jpg");
+  background-image: url("https://i.ibb.co/Hd9fbJ0/foto1.jpg");
   background-size: cover;
   background-position: center;
   min-height: 24rem;
@@ -579,53 +579,53 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: url("../image/foto2.jpg");
+  background-image: url("https://i.ibb.co/D53LYtN/foto2.jpg");
   background-size: cover;
   background-position: center;
   min-height: 24rem;
 }
 
 .foto3 {
-  background-image: url("../image/foto3.jpg");
+  background-image: url("https://i.ibb.co/1zjJQcm/foto3.jpg");
   background-size: cover;
   background-position: top;
   min-height: 24rem;
 }
 
 .foto4 {
-  background-image: url("../image/foto4.jpg");
+  background-image: url("https://i.ibb.co/jkfHX2H/foto4.jpg");
   background-size: cover;
   background-position: center;
   min-height: 24rem;
 }
 
 .foto5 {
-  background-image: url("../image/foto5.jpg");
+  background-image: url("https://i.ibb.co/XFMfgf6/foto5.jpg");
   background-size: cover;
   background-position: center;
   min-height: 24rem;
 }
 
 .foto6 {
-  background-image: url("../image/foto6.jpg");
+  background-image: url("https://i.ibb.co/Ycvp3JN/foto6.jpg");
   background-size: cover;
   background-position: center;
   min-height: 24rem;
 }
 .foto7 {
-  background-image: url("../image/foto7.jpg");
+  background-image: url("https://i.ibb.co/zbhgfyY/foto7.jpg");
   background-size: cover;
   background-position: top;
   min-height: 24rem;
 }
 .foto8 {
-  background-image: url("../image/foto8.jpg");
+  background-image: url("https://i.ibb.co/gtbV8K8/foto8.jpg");
   background-size: cover;
   background-position: center;
   min-height: 24rem;
 }
 .foto9 {
-  background-image: url("../image/foto9.jpg");
+  background-image: url("https://i.ibb.co/Rz5tmRc/foto9.jpg");
   background-size: cover;
   background-position: center;
   min-height: 24rem;
